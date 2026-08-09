@@ -15,6 +15,17 @@ Currently 5 of 8 courses completed.
 
   Tools: VirusTotal, Detect It Easy (DIE), MpCmdRun.exe, MITRE ATT&CK
 
+### Cryptography
+- **Cryptography Decryption Lab** — Linux-based decryption exercise applying AES-256-CBC and Caesar cipher techniques.
+
+### Hash Verification
+- **Hash Verification Lab** — File integrity verification using cryptographic hashing.
+
+### SQL Forensics
+- **SQL Foundations** — Introductory SQL querying for security log analysis.
+- **SQL Joins** — Multi-table log correlation using JOIN operations.
+- **SQL Numeric and Date Filters** — Filtering security logs with numeric and date-range conditions.
+
 ## Skills Demonstrated
 
 - Static PE analysis (DIE, VirusTotal)
