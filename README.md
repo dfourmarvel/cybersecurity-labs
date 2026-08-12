@@ -10,6 +10,11 @@ Currently 5 of 8 courses completed.
 
 ## Labs
 
+### Network Analysis
+- **Wireshark Packet Analysis** — Filtering a 200-packet capture with Wireshark display filters: by IP address (`ip.addr`, `ip.src`, `ip.dst`), by Ethernet MAC address (`eth.addr`), by UDP port 53 for DNS queries and answers, by TCP port 80 for web traffic, and by payload text (`tcp contains`). Includes layer-by-layer packet inspection across the Frame, Ethernet II, IPv4 and TCP subtrees.
+
+  Tools: Wireshark, display filters
+
 ### Malware Analysis
 - **Static and Behavioral Analysis of a PUA-Classified DLL** — Independent analysis of RUNE64.dll flagged by Windows Defender. Applied VirusTotal sandbox analysis, Windows Defender quarantine auditing via MpCmdRun.exe, and static PE inspection using Detect It Easy (DIE). Verdict: confirmed false positive caused by VMProtect 1.70 obfuscation and custom PE section layout.
 

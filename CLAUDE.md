@@ -3,6 +3,7 @@
 Documentation repo for Daniel's Google Cybersecurity Certificate coursework — hands-on lab write-ups (malware analysis, network defense, cryptography, SQL forensics, vulnerability assessment, etc.), not template exercises.
 
 ## Structure
+- `wireshark-packet-analysis/` — Wireshark display-filter and packet-inspection lab
 - `malware-analysis/` — lab reports (e.g. static/behavioral analysis of a PUA-classified DLL)
 - `cryptography-decryption/` — AES-256-CBC / Caesar cipher decryption lab
 - `hash-verification/` — file integrity hashing lab
